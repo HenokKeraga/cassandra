@@ -300,6 +300,7 @@ Command 							Description
 help								Show the help docs.
 use <keyspace>							Use the specified keyspace. Allows accessing tables without prefixing with keyspace..
 tracing <on/off>						Turn tracing on or off
+desc keyspaces  	           `				list available keyspace 
 desc								Describe a keyspace or table.
 source <filepath>						Execute a file containing CQL statements.
 expand <on/off>							If expand is on, each row printed to the console will be on its own line. Much easier to read!
