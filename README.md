@@ -1,7 +1,12 @@
 # cassandra
 
 docker run --name cassandra --network cassandra -d cassandra:latest
+
+
 #docker run -it --network cassandra --rm cassandra cqlsh cassandra
+
+
+
 docker exec -it cassandra bash
 
 docker network create cassandra
