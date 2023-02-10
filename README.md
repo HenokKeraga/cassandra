@@ -478,3 +478,5 @@ SELECT * FROM table WHERE map_column CONTAINS KEY 'foo';
 
 [1] http://tech.joshegan.com/posts/yr2016/cassandra-cheatsheet
 [2] https://dzone.com/refcardz/apache-cassandra
+	
+	
